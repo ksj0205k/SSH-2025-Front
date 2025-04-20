@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import { useRouter } from "expo-router";
 
-const server = "localhost";
+const server = "43.203.119.117";
 const port = "8080";
 
 export default function NewPostScreen() {
